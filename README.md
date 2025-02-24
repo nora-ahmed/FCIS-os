@@ -9,7 +9,9 @@ Basic Scheduler: Manages process execution
 🔧 Tech Stack
 
 Programming Language: C
+
 OS Concepts: Memory management, concurrency, scheduling
+
 📌 Why This Project?
 This project demonstrates my understanding of low-level system operations, secure memory handling, and concurrency control in an OS environment.
 
